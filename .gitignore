@@ -1,0 +1,5 @@
+sample_submission.csv
+test_ship_segmentations.csv
+train_ship_segmentations.csv
+test/
+train/
